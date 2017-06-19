@@ -19,12 +19,6 @@
 
 package osu.beatmapdownloader;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.InputStream;
-import java.io.OutputStream;
-import java.util.Properties;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 
